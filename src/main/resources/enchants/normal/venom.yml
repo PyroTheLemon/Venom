@@ -22,7 +22,7 @@ general-config:
   requirements:
     list: []
     not-met-lore: []
-  conflicts: [ ]
+  conflicts: []
   maximum-level: 10
 
 config:
