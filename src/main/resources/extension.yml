@@ -1,0 +1,4 @@
+name: Thrifty
+main: com.pyro.venom.VenomMain
+version: ${projectVersion}
+author: PyroLemon
